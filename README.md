@@ -9,9 +9,9 @@
 ```
 |- Framework	框架
 	|- Libraries	框架类库
-		|- PHPFunctionParser.php  核心解析类
-    |- FiniteStateMachine.php 状态机控制类
-    |- FiniteState.php  状态基类
+	|- PHPFunctionParser.php  核心解析类
+	|- FiniteStateMachine.php 状态机控制类
+	|- FiniteState.php  状态基类
 ```
 
 ### 使用方法
